@@ -10,10 +10,10 @@ I am motivated to pursue higher education in the field of Computer Science. Also
 ### Web Developer Intern [Jan'21 - Jul'21]
 
 ## FreeLance Work Experience
-### Website Development of Educational Firm Named Saral Abhyas 
+### Website Development of Education Institute named "Saral Abhyas" 
 [Website Link](https://saralabhyas.com/)
 ### Digital Merketing and Graphics Designing of Youtube Channel Named Victory Education
-[Channel Link](https://www.youtube.com/results?search_query=victory+education)
+[Youtube Channel Link](https://www.youtube.com/results?search_query=victory+education)
 
 ## Skills 
 ### Full Stake Development: HTML, CSS, JavaScript, JQuery, PHP, Bootstrap, MySQL.
