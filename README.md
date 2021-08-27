@@ -9,6 +9,12 @@ I am motivated to pursue higher education in the field of Computer Science. Also
 ### Student Intern Navrachana University [Jun'20 - Oct'20]
 ### Web Developer Intern [Jan'21 - Jul'21]
 
+## FreeLance Work Experience
+### Website Development of Educational Firm Named Saral Abhyas 
+[Website Link](https://saralabhyas.com/)
+### Digital Merketing and Graphics Designing of Youtube Channel Named Victory Education
+[Channel Link](https://www.youtube.com/results?search_query=victory+education)
+
 ## Skills 
 ### Full Stake Development: HTML, CSS, JavaScript, JQuery, PHP, Bootstrap, MySQL.
 ### Mobile Application Development: JAVA, AndroidSDK, Android Studio, Firebase.
@@ -25,16 +31,22 @@ I am motivated to pursue higher education in the field of Computer Science. Also
 ## Key Projects
 
 ### 1)Plant Disease Detection Using Image Classification
-•	As plant diseases affect the growth of their respective species along with heavy loss of food, therefore their early identification and precaution is very significant.
-•	Detection of plant disease through Image Processing will be effective solution for the agriculture field as well as farmer community
 #### Technologies: Machine Learning, Artificial Intelligence and their tools.
 #### Core Features: Disease detection and remedies suggestion to overcome the effect of plant disease which effects the growth of a particular crop.
-[Image Classification Based Plant Disease Detection](https://jinesh511.github.io/)
+•	As plant diseases affect the growth of their respective species along with heavy loss of food, therefore their early identification and precaution is very significant.
+•	Detection of plant disease through Image Processing will be effective solution for the agriculture field as well as farmer community
+[Image Classification Based Plant Disease Detection](https://github.com/jinesh511/AgroSpect-GUI)
 
 ### 2)Navrachana University Official Website Development 
+#### Technologies: HTML, CSS, JavaScript, Bootstrap, JQuery, PHP and Adobe XD
 •	University Official Website Development in a team of 5 members.
-#### Technologies: : HTML, CSS, JavaScript, Bootstrap, JQuery, PHP and Adobe XD
 [Navrachana University Website URL]( https://jinesh511.github.io/nuv-website/)
+
+### 3) Split Bill Android Application 
+#### Technologies: Java , XML, SQ Lite, Firebase
+#### Core Feature: Splitting of an expanse among groups.
+•	An android app where user can Sign-in, Sign-up (to create account), Create Group, Add members, Add activities, Add expanse and name of spenders, finally divide the amount among group of peoples and share settlement via any social media or via mail.
+[Navrachana University Website URL]( https://github.com/jinesh511/Finance_Financer)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jinesh511) 
