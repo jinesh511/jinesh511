@@ -4,6 +4,7 @@
 ## Computer Science Student
 
 ## [Jinesh Kansara CV](https://github.com/jinesh511/jinesh511/blob/main/Jinesh%20Kansara%20CV.pdf)
+## [Jinesh Kansara Portfolio](https://github.com/jinesh511/jinesh511/blob/d96601b8fdb5672442f9a0cea4ad197e0e681dba/PORTFOLIO%20-%20JINESH%20KANSARA.pdf)
 
 I am motivated to pursue higher education in the field of Computer Science. Also, to enhance my knowledge and contribution in research work by commitment, high-quality smart work, and background experience of Deep Learning, Artificial Intelligence, Machine Learning, Android Development, Web Development, and Problem-solving capabilities. Research and project driven education focusses on experiencing real-world environments and building career.
 
